@@ -7,6 +7,11 @@
 #### I am a Brilliant Freelancer specialised in blockchain(web3), Full Stack web development, Automation and developing Machine learning algorithms.I aquired my mastery from various outstanding communities across the world, attain certifications and have exceptional projects. 
 ### Below are some of my achievements
 ---
+### Specializtions
+- Blockchain
+- Full Stack Web Development
+- Machine learning 
+- Automation 
 ### Programming Languages
 - Javascript
 - Python
@@ -23,5 +28,6 @@
 - Adobe Photoshop
 - Figma(UI designs)
 - Git and GitHub
-### Technologies
--
+Hire me for your projects, message me >>> [joblawal33@gmail.com](joblawal3@gmail.com)
+---
+### **RECENT PROJECTS**
