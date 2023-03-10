@@ -28,6 +28,7 @@
 - Adobe Photoshop
 - Figma(UI designs)
 - Git and GitHub
-Hire me for your projects, message me >>> [joblawal33@gmail.com](joblawal3@gmail.com)
+
+### Hire me for your projects, message me >>> [joblawal33@gmail.com](joblawal3@gmail.com)
 ---
 ### **RECENT PROJECTS**
